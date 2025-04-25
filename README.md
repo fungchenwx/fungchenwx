@@ -10,7 +10,7 @@ I am currently a BS CS student at UCSC.<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 🔭 I’m currently working on front-end development projects.<br>
-🌱 I’m currently learning HTML, CSS, JavaScript.<br>
+🌱 I’m currently learning Web Development.<br>
 
 I am excited to continue on this journey of Computer Science!<br>
 

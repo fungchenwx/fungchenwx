@@ -9,8 +9,8 @@ I am currently a BS CS student at UCSC.<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-🔭 I’m currently working on full-stack projects.<br>
-🌱 I’m currently learning backend development with Python/Django.<br>
+🔭 Currently working on Full-Stack projects using JavaScript (React) and Python (Django).<br>
+🌱 I’m interested in web development and practical software engineering.<br>
 
 I am excited to continue on this journey of Computer Science!<br>
 
